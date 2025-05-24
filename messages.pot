@@ -1,0 +1,166 @@
+# Translations template for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-05-15 23:00+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: templates/courses.html:3
+msgid "Available Courses - LearnHub"
+msgstr ""
+
+#: templates/courses.html:15
+msgid "Course Title"
+msgstr ""
+
+#: templates/courses.html:16
+msgid "Description"
+msgstr ""
+
+#: templates/courses.html:17
+msgid "Actions"
+msgstr ""
+
+#: templates/courses.html:25
+msgid "Loading"
+msgstr ""
+
+#: templates/courses.html:27
+msgid "Loading courses"
+msgstr ""
+
+#: templates/courses.html:39
+msgid "No courses available"
+msgstr ""
+
+#: templates/courses.html:40
+msgid "Check back later for new courses"
+msgstr ""
+
+#: templates/courses.html:42
+msgid "Refresh"
+msgstr ""
+
+#: templates/dashboard.html:4 templates/index.html:3
+msgid "Welcome"
+msgstr ""
+
+#: templates/dashboard.html:7
+msgid "Your Enrolled Courses"
+msgstr ""
+
+#: templates/dashboard.html:17
+msgid "You are not enrolled in any courses yet."
+msgstr ""
+
+#: templates/dashboard.html:20
+msgid "Logout"
+msgstr ""
+
+#: templates/index.html:7
+msgid "Welcome to Student Course Portal"
+msgstr ""
+
+#: templates/index.html:8
+msgid "Your gateway to academic excellence and course management"
+msgstr ""
+
+#: templates/index.html:10
+msgid ""
+"Register now to explore available courses and manage your academic "
+"journey."
+msgstr ""
+
+#: templates/index.html:14
+msgid "Why Choose Our Portal?"
+msgstr ""
+
+#: templates/index.html:16
+msgid "User-friendly interface"
+msgstr ""
+
+#: templates/index.html:17
+msgid "Real-time course enrollment"
+msgstr ""
+
+#: templates/index.html:18
+msgid "Secure student profiles"
+msgstr ""
+
+#: templates/index.html:19
+msgid "Responsive design for all devices"
+msgstr ""
+
+#: templates/layout.html:6
+msgid "Student Portal"
+msgstr ""
+
+#: templates/layout.html:14
+msgid "LearnHub"
+msgstr ""
+
+#: templates/layout.html:21 templates/register.html:3
+#: templates/register.html:45
+msgid "Register"
+msgstr ""
+
+#: templates/layout.html:24 templates/login.html:3
+msgid "Login"
+msgstr ""
+
+#: templates/layout.html:27
+msgid "Courses"
+msgstr ""
+
+#: templates/layout.html:53
+msgid "© 2025 LearnHub. All rights reserved."
+msgstr ""
+
+#: templates/login.html:8
+msgid "Welcome Back"
+msgstr ""
+
+#: templates/login.html:33
+msgid "Do not have an account?"
+msgstr ""
+
+#: templates/register.html:7
+msgid "Create an Account"
+msgstr ""
+
+#: templates/register.html:13
+msgid "Full Name"
+msgstr ""
+
+#: templates/register.html:21
+msgid "Email"
+msgstr ""
+
+#: templates/register.html:29
+msgid "Password"
+msgstr ""
+
+#: templates/register.html:37
+msgid "Confirm Password"
+msgstr ""
+
+#: templates/register.html:50
+msgid "Already have an account?"
+msgstr ""
+
+#: templates/register.html:50
+msgid "Login here"
+msgstr ""
+

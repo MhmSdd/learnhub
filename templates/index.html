@@ -1,0 +1,23 @@
+{% extends 'layout.html' %}
+
+{% block title %}{{_('Welcome')}}{% endblock %}
+
+{% block content %}
+<div class="hero-section text-center py-5 bg-light rounded-3">
+    <h1 class="display-4">{{_('Welcome to Student Course Portal')}}</h1>
+    <p class="lead">{{_('Your gateway to academic excellence and course management')}}</p>
+    <hr class="my-4">
+    <p>{{_('Register now to explore available courses and manage your academic journey.')}}</p>
+</div>
+
+<div class="features-section mt-5">
+    <h2 class="text-center mb-4">{{_('Why Choose Our Portal?')}}</h2>
+    <ul class="list-group">
+        <li class="list-group-item">✔{{_('User-friendly interface')}} </li>
+        <li class="list-group-item">✔ {{_('Real-time course enrollment')}}</li>
+        <li class="list-group-item">✔ {{_('Secure student profiles')}}</li>
+        <li class="list-group-item">✔ {{_('Responsive design for all devices')}}</li>
+    </ul>
+</div>
+
+{% endblock %}

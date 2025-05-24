@@ -1,0 +1,209 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-05-15 23:00+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ar\n"
+"Language-Team: ar <LL@li.org>\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : "
+"n%100>=3 && n%100<=10 ? 3 : n%100>=0 && n%100<=2 ? 4 : 5);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: templates/courses.html:3
+msgid "Available Courses - LearnHub"
+msgstr "الدورات التدريبية المتاحة - مركز التعلم"
+
+#: templates/courses.html:15
+msgid "Course Title"
+msgstr "عنوان الدورة"
+
+#: templates/courses.html:16
+msgid "Description"
+msgstr "الوصف"
+
+#: templates/courses.html:17
+msgid "Actions"
+msgstr "الأحداث"
+
+#: templates/courses.html:25
+msgid "Loading"
+msgstr "تسجيل الدخول"
+
+#: templates/courses.html:27
+msgid "Loading courses"
+msgstr "جاري تحميل الدورات"
+
+#: templates/courses.html:39
+msgid "No courses available"
+msgstr "تحقق لاحقًا للدورات الجديدة"
+
+#: templates/courses.html:40
+msgid "Check back later for new courses"
+msgstr "تحقق لاحقًا للدورات الجديدة"
+
+#: templates/courses.html:42
+msgid "Refresh"
+msgstr "تحديث"
+
+msgid "Are you sure you want to unenroll?"
+msgstr "هل أنت متأكد من أنك تريد إلغاء التسجيل؟"
+
+msgid "Error enrolling in course"
+msgstr "خطأ أثناء التسجيل في الدورة"
+
+msgid "Error unenrolling from course"
+msgstr "خطأ أثناء إلغاء التسجيل من الدورة"
+
+msgid "You must be logged in to view courses."
+msgstr "يجب تسجيل الدخول لعرض الدورات."
+
+msgid "Error loading courses."
+msgstr "خطأ أثناء تحميل الدورات."
+
+msgid "Please login first."
+msgstr "يرجى تسجيل الدخول أولاً."
+
+#: ajax/enroll.py
+msgid "Course not found."
+msgstr "الدورة غير موجودة."
+
+#: ajax/enroll.py
+msgid "You are already enrolled in this course."
+msgstr "أنت مسجل بالفعل في هذه الدورة."
+
+#: ajax/enroll.py
+msgid "Successfully enrolled in the course."
+msgstr "تم التسجيل في الدورة بنجاح."
+
+#: ajax/enroll.py
+msgid "You are not enrolled in this course."
+msgstr "أنت غير مسجل في هذه الدورة."
+
+#: ajax/enroll.py
+msgid "Successfully unenrolled from the course."
+msgstr "تم إلغاء التسجيل من الدورة بنجاح."
+
+#: templates/dashboard.html:4 templates/index.html:3
+msgid "Welcome"
+msgstr "مرحبا"
+
+#: templates/dashboard.html:7
+msgid "Your Enrolled Courses"
+msgstr "الدورات المسجل"
+
+#: templates/dashboard.html:17
+msgid "You are not enrolled in any courses yet."
+msgstr "لم يتم تسجيلك في أي دورات بعد."
+
+#: templates/dashboard.html:20
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+msgid "Unenroll"
+msgstr "إلغاء التسجيل"
+
+#: templates/index.html:7
+msgid "Welcome to Student Course Portal"
+msgstr "مرحباً بكم في بوابة الدورات الطلابية"
+
+#: templates/index.html:8
+msgid "Your gateway to academic excellence and course management"
+msgstr "بوابتك إلى التميز الأكاديمي وإدارة المقررات الدراسية"
+
+#: templates/index.html:10
+msgid ""
+"Register now to explore available courses and manage your academic "
+"journey."
+msgstr "سجل الآن لاستكشاف الدورات المتاحة وإدارة شؤونك الأكاديمية "
+"رحلة"
+
+#: templates/index.html:14
+msgid "Why Choose Our Portal?"
+msgstr "لماذا تختار بوابتنا"
+
+#: templates/index.html:16
+msgid "User-friendly interface"
+msgstr "واجهة سهلة الاستخدام"
+
+#: templates/index.html:17
+msgid "Real-time course enrollment"
+msgstr "التسجيل الفوري للمقررات الدراسية"
+
+#: templates/index.html:18
+msgid "Secure student profiles"
+msgstr "ملفات تعريف الطلاب آمنة"
+
+#: templates/index.html:19
+msgid "Responsive design for all devices"
+msgstr "تصميم متجاوب لجميع الأجهزة"
+
+#: templates/layout.html:6
+msgid "Student Portal"
+msgstr "بوابة الطالب"
+
+#: templates/layout.html:14
+msgid "LearnHub"
+msgstr "مركز التعلم"
+
+#: templates/layout.html:21 templates/register.html:3
+#: templates/register.html:45
+msgid "Register"
+msgstr "تسجيل"
+
+#: templates/layout.html:24 templates/login.html:3
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: templates/layout.html:27
+msgid "Courses"
+msgstr "الدورات"
+
+#: templates/layout.html:53
+msgid "© 2025 LearnHub. All rights reserved."
+msgstr "© 2025 مركز التعلم. جميع الحقوق محفوظة"
+
+#: templates/login.html:8
+msgid "Welcome Back"
+msgstr "مرحبا بعودتك"
+
+#: templates/login.html:33
+msgid "Do not have an account?"
+msgstr "ليس لديك حساب؟"
+
+msgid "Register here"
+msgstr "سجل هنا"
+
+#: templates/register.html:7
+msgid "Create an Account"
+msgstr "إنشاء حساب"
+
+#: templates/register.html:13
+msgid "Full Name"
+msgstr "الاسم الكامل"
+
+#: templates/register.html:21
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: templates/register.html:29
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: templates/register.html:37
+msgid "Confirm Password"
+msgstr "تأكيد كلمة المرور"
+
+#: templates/register.html:50
+msgid "Already have an account?"
+msgstr "هل لديك حساب بالفعل؟"
+
+#: templates/register.html:50
+msgid "Login here"
+msgstr "تسجيل الدخول"
+
