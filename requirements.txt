@@ -10,4 +10,5 @@ Werkzeug==3.0.4
 redis==5.0.8
 gunicorn==22.0.0
 requests==2.32.3
-gunicorn
+pymysql==1.1.0
+email-validator==2.1.1
