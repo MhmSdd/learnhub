@@ -18,7 +18,7 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 # تهيئة Babel مع دالة locale_selector
 babel = Babel(app)
 
-@babel.localeselector
+@babel.locale_selector
 def get_locale():
     if 'lang' in session:
         return session['lang']
