@@ -38,9 +38,9 @@ def set_language(lang_code):
 db.init_app(app)
 migrate = Migrate(app, db)
 
-@app.before_request
-def create_tables():
-    db.create_all()  
+#@app.before_request
+#def create_tables():
+   # db.create_all()  
 
     if Course.query.count() == 0:
         courses = [
